@@ -25,7 +25,7 @@ Something something something
 
 
 ## Contact
-ytbryan@gmail.com 
+ytbryan@gmail.com | ytbryan.com
 
 ## License 
 MIT
